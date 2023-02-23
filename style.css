@@ -117,3 +117,17 @@ section {
     top: 0;
     right: 0;
 }
+
+/* 8 */
+h1 {
+    position: sticky;
+    top: 1px;
+    /* 9 */
+    z-index: 2;
+}
+
+/* OR 9 */
+/* #power, #space {
+    z-index: 1;
+} */
+
