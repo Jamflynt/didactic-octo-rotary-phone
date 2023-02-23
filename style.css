@@ -74,3 +74,26 @@ section {
 }
 
 /* START BELOW THIS LINE */
+
+/* 1 */
+/* postion: static; */
+
+/* 2 */
+#power {
+    position: relative;
+    right: 225px;
+}
+
+/* 3 */
+#space {
+    position: relative;
+    top: 115px;
+    right: 115px;
+}
+
+/* 4 */
+#soul {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
